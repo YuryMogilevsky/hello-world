@@ -1,2 +1,3 @@
 # hello-world
-My First Repository
+Hello World!
+I like math quizzes, playing football and travelling by train.
